@@ -5,8 +5,8 @@
 
 
 body{
-    /* font-family: 'Nanum Gothic', sans-serif; */
-    /* font-family: 'Nanum Gothic', serif; */
+    /* font-family: 'Nanum Gothic'; */
+    /* font-family: 'Nanum Gothic'; */
     min-height: 100vh;
     background-image: linear-gradient(-20deg, #adecc3 0%, #fbfcdb 100%);
     /* background-color: #ffff00;
@@ -16,7 +16,7 @@ body{
     background-position: center; */
 }
 *{
-    font-family: 'Nanum Gothic', serif;
+    font-family: 'Nanum Gothic';
 }
 
 .container{
